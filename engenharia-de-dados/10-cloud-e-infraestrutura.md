@@ -309,7 +309,7 @@ Custo é uma das maiores preocupações em arquiteturas cloud de dados. Algumas 
 - [FinOps Foundation](https://www.finops.org/)
 
 
-← [Governança e Segurança](./governanca-e-seguranca.md) · [Voltar ao índice](./0-engenharia-de-dados.md)
+← [Governança e Segurança](./9-governanca-e-seguranca.md) · [Voltar ao índice](./0-engenharia-de-dados.md) · [Comparativo de Clouds para Engenharia de Dados →](./11-comparativo-clouds.md)
 
 
 *Documentação em construção · Portfólio pessoal*
