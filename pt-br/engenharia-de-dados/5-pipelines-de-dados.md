@@ -47,16 +47,16 @@ Onde os dados se originam. Pode ser um banco de dados transacional, uma API, um 
 A etapa que coleta os dados da fonte e os move para o ambiente de dados. Pode ser batch ou streaming. Ver [Ingestão de Dados](./2-ingestao-de-dados.md).
 
 ### Armazenamento Intermediário (Staging)
-Os dados brutos são armazenados antes de qualquer transformação. Essa camada garante que sempre é possível reprocessar a partir dos dados originais. Ver [Armazenamento de Dados](./2-armazenamento-de-dados.md).
+Os dados brutos são armazenados antes de qualquer transformação. Essa camada garante que sempre é possível reprocessar a partir dos dados originais. Ver [Armazenamento de Dados](./3-armazenamento-de-dados.md).
 
 ### Transformação
-Os dados são limpos, modelados e enriquecidos para atender aos requisitos do caso de uso. Ver [Processamento de Dados](./3-processamento-de-dados.md).
+Os dados são limpos, modelados e enriquecidos para atender aos requisitos do caso de uso. Ver [Processamento de Dados](./4-processamento-de-dados.md).
 
 ### Destino (Sink)
 Onde os dados transformados chegam para serem consumidos: tabelas analíticas, dashboards, APIs, feature stores, etc.
 
 ### Orquestração
-O sistema que agenda, monitora e gerencia a execução de todo o pipeline. Ver [Orquestração](./orquestacao.md).
+O sistema que agenda, monitora e gerencia a execução de todo o pipeline. Ver [Orquestração](./6-orquestacao.md).
 
 
 ## Tipos de Pipeline
@@ -142,7 +142,7 @@ As etapas do pipeline devem suceder ou falhar como uma unidade. Não deve haver 
 Deve ser possível saber de onde cada dado veio, quais transformações sofreu e quando foi processado. Fundamental para depuração e auditoria.
 
 ### ✅ Observabilidade
-O pipeline deve emitir métricas, logs e alertas suficientes para que problemas sejam detectados rapidamente. Ver [Observabilidade](./observabilidade.md).
+O pipeline deve emitir métricas, logs e alertas suficientes para que problemas sejam detectados rapidamente. Ver [Observabilidade](./8-observabilidade.md).
 
 ### ✅ Resiliência e Retry
 Falhas acontecem. O pipeline deve se recuperar automaticamente de erros transitórios (timeout de rede, serviço indisponível) sem intervenção manual.
@@ -306,7 +306,7 @@ Um pipeline sem monitoramento é um pipeline à espera de um desastre silencioso
 | Freshness dos dados | Há quanto tempo os dados foram atualizados |
 | Custo de execução | Gastos com processamento cloud |
 
-Ver mais em [Observabilidade](./observabilidade.md).
+Ver mais em [Observabilidade](./8-observabilidade.md).
 
 
 ## Anti-patterns Comuns

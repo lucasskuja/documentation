@@ -153,7 +153,7 @@ A LGPD e outras regulações exigem que dados pessoais sejam mantidos **apenas p
 
 ## Data Catalog e Documentação
 
-Um **catálogo de dados** é a ferramenta central de governança — o inventário de todos os ativos de dados com metadados, classificações, responsáveis e linhagem. Ver [Observabilidade](./observabilidade.md).
+Um **catálogo de dados** é a ferramenta central de governança — o inventário de todos os ativos de dados com metadados, classificações, responsáveis e linhagem. Ver [Observabilidade](./8-observabilidade.md).
 
 **Metadados essenciais para governança:**
 - Classificação de sensibilidade por coluna

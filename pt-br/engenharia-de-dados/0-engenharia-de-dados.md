@@ -1,5 +1,7 @@
 # Engenharia de Dados
 
+[English](../../en/data-engineering/0-data-engineering.md) | Português (Brasil)
+
 > *"Dados são o novo petróleo — mas petróleo bruto precisa ser refinado para ter valor."*
 
 
@@ -127,9 +129,9 @@ Comparação dos principais provedores de nuvem (AWS, GCP, Azure) em relação a
 
 Cada seção acima é um ponto de entrada para um documento dedicado com maior profundidade. A ideia é que você navegue pelos tópicos conforme sua necessidade:
 
-- 🟢 **Iniciante?** Comece por [Arquitetura](./1-arquitetura-de-dados.md) e [Pipelines](./pipelines-de-dados.md).
-- 🟡 **Intermediário?** Aprofunde-se em [Orquestração](./orquestacao.md) e [Qualidade](./qualidade-de-dados.md).
-- 🔴 **Avançado?** Explore [Observabilidade](./observabilidade.md) e [Governança](./governanca-e-seguranca.md).
+- 🟢 **Iniciante?** Comece por [Arquitetura](./1-arquitetura-de-dados.md) e [Pipelines](./5-pipelines-de-dados.md).
+- 🟡 **Intermediário?** Aprofunde-se em [Orquestração](./6-orquestacao.md) e [Qualidade](./7-qualidade-de-dados.md).
+- 🔴 **Avançado?** Explore [Observabilidade](./8-observabilidade.md) e [Governança](./9-governanca-e-seguranca.md).
 
 
 ## Referências e Leituras Recomendadas

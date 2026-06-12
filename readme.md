@@ -1,51 +1,62 @@
+# Documentation Portfolio
 
-# Documentation - Data Engineering Repository
+This repository is organized as a bilingual documentation portfolio focused on data engineering.
 
-## 📚 Overview
+## Languages
 
-Este repositório reúne documentação de engenharia de dados organizada em um conjunto de guias temáticos para processos, arquitetura, governança e operação de pipelines de dados.
+- [English](./en/README.md)
+- [Português (Brasil)](./pt-br/README.md)
 
-## 📂 Estrutura do Repositório
+## Repository Structure
 
-```
+```text
 documentation/
-├── engenharia-de-dados/
-│   ├── 0-engenharia-de-dados.md
-│   ├── 1-arquitetura-de-dados.md
-│   ├── 2-ingestao-de-dados.md
-│   ├── 3-armazenamento-de-dados.md
-│   ├── 4-processamento-de-dados.md
-│   ├── 5-pipelines-de-dados.md
-│   ├── 6-orquestacao.md
-│   ├── 7-qualidade-de-dados.md
-│   ├── 8-observabilidade.md
-│   ├── 9-governanca-e-seguranca.md
-│   ├── 10-cloud-e-infraestrutura.md
-│   └── 11-comparativo-clouds.md
-└── README.md
+|-- en/
+|   |-- README.md
+|   `-- data-engineering/
+|       |-- 0-data-engineering.md
+|       |-- 1-data-architecture.md
+|       |-- 2-data-ingestion.md
+|       |-- 3-data-storage.md
+|       |-- 4-data-processing.md
+|       |-- 5-data-pipelines.md
+|       |-- 6-orchestration.md
+|       |-- 7-data-quality.md
+|       |-- 8-observability.md
+|       |-- 9-governance-and-security.md
+|       |-- 10-cloud-and-infrastructure.md
+|       `-- 11-cloud-comparison.md
+`-- pt-br/
+    |-- README.md
+    `-- engenharia-de-dados/
+        |-- 0-engenharia-de-dados.md
+        |-- 1-arquitetura-de-dados.md
+        |-- 2-ingestao-de-dados.md
+        |-- 3-armazenamento-de-dados.md
+        |-- 4-processamento-de-dados.md
+        |-- 5-pipelines-de-dados.md
+        |-- 6-orquestacao.md
+        |-- 7-qualidade-de-dados.md
+        |-- 8-observabilidade.md
+        |-- 9-governanca-e-seguranca.md
+        |-- 10-cloud-e-infraestrutura.md
+        `-- 11-comparativo-clouds.md
 ```
 
-## 🔗 Conteúdo Principal
+## What You Will Find Here
 
-- [0 - Engenharia de Dados](./engenharia-de-dados/0-engenharia-de-dados.md)
-- [1 - Arquitetura de Dados](./engenharia-de-dados/1-arquitetura-de-dados.md)
-- [2 - Ingestão de Dados](./engenharia-de-dados/2-ingestao-de-dados.md)
-- [3 - Armazenamento de Dados](./engenharia-de-dados/3-armazenamento-de-dados.md)
-- [4 - Processamento de Dados](./engenharia-de-dados/4-processamento-de-dados.md)
-- [5 - Pipelines de Dados](./engenharia-de-dados/5-pipelines-de-dados.md)
-- [6 - Orquestração](./engenharia-de-dados/6-orquestacao.md)
-- [7 - Qualidade de Dados](./engenharia-de-dados/7-qualidade-de-dados.md)
-- [8 - Observabilidade](./engenharia-de-dados/8-observabilidade.md)
-- [9 - Governança e Segurança](./engenharia-de-dados/9-governanca-e-seguranca.md)
-- [10 - Cloud e Infraestrutura](./engenharia-de-dados/10-cloud-e-infraestrutura.md)
-- [11 - Comparativo de Clouds](./engenharia-de-dados/11-comparativo-clouds.md)
+- A structured learning path for core data engineering concepts
+- Documentation that can be shared as a professional portfolio
+- Parallel navigation in English and Brazilian Portuguese
 
-## 🎯 Como usar
+## Suggested Entry Points
 
-1. Abra a pasta `engenharia-de-dados/`.
-2. Leia o documento inicial `0-engenharia-de-dados.md` para entender o propósito geral.
-3. Navegue pelos tópicos específicos conforme sua necessidade.
+- Start with the English overview: [Data Engineering](./en/data-engineering/0-data-engineering.md)
+- Or browse the Portuguese version: [Engenharia de Dados](./pt-br/engenharia-de-dados/0-engenharia-de-dados.md)
 
----
+## Notes
 
-*Última atualização: 2026*
+- The Portuguese track preserves the original authoring structure.
+- The English track mirrors the same subjects with recruiter-friendly naming and navigation.
+
+_Last updated: 2026_

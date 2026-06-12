@@ -273,7 +273,7 @@ Um orquestrador eficiente deve notificar proativamente quando algo sai do espera
 
 **DAGs atômicos:** cada DAG tem uma responsabilidade clara e bem definida. Evite mega-DAGs com dezenas de responsabilidades misturadas.
 
-**Idempotência em todas as tasks:** qualquer task deve poder ser re-executada sem efeitos colaterais. Ver [Pipelines de Dados](./pipelines-de-dados.md).
+**Idempotência em todas as tasks:** qualquer task deve poder ser re-executada sem efeitos colaterais. Ver [Pipelines de Dados](./5-pipelines-de-dados.md).
 
 **Parâmetros, não hard-codes:** datas, ambientes e configurações devem ser parametrizados, não embutidos no código.
 

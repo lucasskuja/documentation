@@ -44,10 +44,10 @@ Onde os dados se originam. Podem ser:
 Responsável por mover dados das fontes para o ambiente centralizado. Pode ser batch ou streaming. Detalhado em [Ingestão de Dados](./2-ingestao-de-dados.md).
 
 ### Camada de Armazenamento
-Onde os dados persistem. A escolha do tipo de armazenamento é uma das decisões mais críticas da arquitetura. Detalhado em [Armazenamento de Dados](./2-armazenamento-de-dados.md).
+Onde os dados persistem. A escolha do tipo de armazenamento é uma das decisões mais críticas da arquitetura. Detalhado em [Armazenamento de Dados](./3-armazenamento-de-dados.md).
 
 ### Camada de Processamento e Transformação
-Onde os dados brutos são limpos, enriquecidos e transformados em informação útil. Detalhado em [Processamento de Dados](./3-processamento-de-dados.md).
+Onde os dados brutos são limpos, enriquecidos e transformados em informação útil. Detalhado em [Processamento de Dados](./4-processamento-de-dados.md).
 
 ### Camada de Consumo
 Onde os dados chegam ao usuário final: dashboards, relatórios, APIs, modelos de ML, aplicações.
