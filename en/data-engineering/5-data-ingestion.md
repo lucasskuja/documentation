@@ -258,7 +258,7 @@ In stream processing, events arrive out of order. **Watermarks** are time marker
 - [dlt (data load tool)](https://dlthub.com/docs/intro)
 
 
-← [Data Architecture](./1-data-architecture.md) · [Back to index](./0-data-engineering.md) · [Data Storage →](./3-data-storage.md)
+← [Modern Data Platforms](./4-modern-data-platforms.md) · [Back to index](./0-data-engineering.md) · [Streaming and Events →](./6-streaming-and-events.md)
 
 
 *Documentation in progress · Personal portfolio*

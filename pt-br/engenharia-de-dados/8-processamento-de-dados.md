@@ -286,7 +286,7 @@ Motor de query SQL distribuído que permite consultar dados em múltiplas fontes
 - [Apache Flink Documentation](https://nightlies.apache.org/flink/flink-docs-stable/)
 
 
-← [Armazenamento de Dados](./3-armazenamento-de-dados.md) · [Voltar ao índice](./0-engenharia-de-dados.md) · [Pipelines de Dados →](./5-pipelines-de-dados.md)
+← [Armazenamento de Dados](./7-armazenamento-de-dados.md) · [Voltar ao índice](./0-engenharia-de-dados.md) · [SQL Avançado →](./9-sql-avancado.md)
 
 
 *Documentação em construção · Portfólio pessoal*

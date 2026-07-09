@@ -44,19 +44,19 @@ flowchart LR
 Where the data originates. It can be a transactional database, an API, a file, a Kafka topic, an application event, and so on.
 
 ### Ingestion
-The step that collects data from the source and moves it into the data environment. It can be batch or streaming. See [Data Ingestion](./2-data-ingestion.md).
+The step that collects data from the source and moves it into the data environment. It can be batch or streaming. See [Data Ingestion](./5-data-ingestion.md).
 
 ### Intermediate Storage (Staging)
-Raw data is stored before any transformation. This layer guarantees that reprocessing from the original data is always possible. See [Data Storage](./3-data-storage.md).
+Raw data is stored before any transformation. This layer guarantees that reprocessing from the original data is always possible. See [Data Storage](./7-data-storage.md).
 
 ### Transformation
-Data is cleaned, modeled, and enriched to meet the requirements of the use case. See [Data Processing](./4-data-processing.md).
+Data is cleaned, modeled, and enriched to meet the requirements of the use case. See [Data Processing](./8-data-processing.md).
 
 ### Destination (Sink)
 Where transformed data arrives to be consumed: analytical tables, dashboards, APIs, feature stores, and so on.
 
 ### Orchestration
-The system that schedules, monitors, and manages the execution of the entire pipeline. See [Orchestration](./6-orchestration.md).
+The system that schedules, monitors, and manages the execution of the entire pipeline. See [Orchestration](./11-orchestration.md).
 
 
 ## Pipeline Types
@@ -142,7 +142,7 @@ Pipeline steps should succeed or fail as a unit. There must be no inconsistent i
 It must be possible to know where each piece of data came from, what transformations it went through, and when it was processed. Essential for debugging and auditing.
 
 ### ✅ Observability
-The pipeline must emit enough metrics, logs, and alerts so that problems can be detected quickly. See [Observability](./8-observability.md).
+The pipeline must emit enough metrics, logs, and alerts so that problems can be detected quickly. See [Observability](./14-observability.md).
 
 ### ✅ Resilience and Retry
 Failures happen. The pipeline must automatically recover from transient errors (network timeouts, unavailable service) without manual intervention.
@@ -306,7 +306,7 @@ A pipeline without monitoring is a pipeline waiting for a silent disaster. Essen
 | Data freshness | How long since data was updated |
 | Execution cost | Cloud processing spend |
 
-See more in [Observability](./8-observability.md).
+See more in [Observability](./14-observability.md).
 
 
 ## Common Anti-patterns
@@ -372,7 +372,7 @@ See more in [Observability](./8-observability.md).
 - [Data Pipeline Design Patterns — Google Cloud](https://cloud.google.com/architecture/data-lifecycle-cloud-platform)
 
 
-← [Data Processing](./4-data-processing.md) · [Back to index](./0-data-engineering.md) · [Orchestration →](./6-orchestration.md)
+← [Advanced SQL](./9-advanced-sql.md) · [Back to index](./0-data-engineering.md) · [Orchestration →](./11-orchestration.md)
 
 
 *Documentation in progress · Personal portfolio*

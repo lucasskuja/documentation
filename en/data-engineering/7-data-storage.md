@@ -217,7 +217,7 @@ Lifecycle policies automate the movement between layers.
 - [Delta Lake Documentation](https://docs.delta.io/latest/index.html)
 
 
-← [Data Ingestion](./2-data-ingestion.md) · [Back to index](./0-data-engineering.md) · [Data Processing →](./4-data-processing.md)
+← [Streaming and Events](./6-streaming-and-events.md) · [Back to index](./0-data-engineering.md) · [Data Processing →](./8-data-processing.md)
 
 
 *Documentation in progress · Personal portfolio*

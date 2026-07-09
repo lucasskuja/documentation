@@ -41,13 +41,13 @@ Onde os dados se originam. Podem ser:
 - **Dados não estruturados:** imagens, áudios, documentos
 
 ### Camada de Ingestão
-Responsável por mover dados das fontes para o ambiente centralizado. Pode ser batch ou streaming. Detalhado em [Ingestão de Dados](./2-ingestao-de-dados.md).
+Responsável por mover dados das fontes para o ambiente centralizado. Pode ser batch ou streaming. Detalhado em [Ingestão de Dados](./5-ingestao-de-dados.md).
 
 ### Camada de Armazenamento
-Onde os dados persistem. A escolha do tipo de armazenamento é uma das decisões mais críticas da arquitetura. Detalhado em [Armazenamento de Dados](./3-armazenamento-de-dados.md).
+Onde os dados persistem. A escolha do tipo de armazenamento é uma das decisões mais críticas da arquitetura. Detalhado em [Armazenamento de Dados](./7-armazenamento-de-dados.md).
 
 ### Camada de Processamento e Transformação
-Onde os dados brutos são limpos, enriquecidos e transformados em informação útil. Detalhado em [Processamento de Dados](./4-processamento-de-dados.md).
+Onde os dados brutos são limpos, enriquecidos e transformados em informação útil. Detalhado em [Processamento de Dados](./8-processamento-de-dados.md).
 
 ### Camada de Consumo
 Onde os dados chegam ao usuário final: dashboards, relatórios, APIs, modelos de ML, aplicações.
@@ -239,6 +239,8 @@ Não existe arquitetura universalmente correta. A escolha depende de:
 
 A forma como os dados são organizados dentro do armazenamento também é parte da arquitetura.
 
+Para uma visão completa dos níveis conceitual, lógico e físico, veja também [Modelagem de Dados](./2-modelagem-de-dados.md).
+
 ### Star Schema
 O modelo mais comum em Data Warehouses. Possui uma **tabela fato central** (métricas e eventos) conectada a **tabelas dimensão** (contexto: tempo, produto, cliente, etc.).
 
@@ -390,7 +392,7 @@ flowchart TB
 - [Apache Iceberg docs](https://iceberg.apache.org/docs/latest/)
 
 
-← [Voltar ao índice](./0-engenharia-de-dados.md) · Próximo: [Ingestão de Dados →](./2-ingestao-de-dados.md)
+← [Voltar ao índice](./0-engenharia-de-dados.md) · [Modelagem de Dados →](./2-modelagem-de-dados.md)
 
 
 *Documentação em construção · Portfólio pessoal*

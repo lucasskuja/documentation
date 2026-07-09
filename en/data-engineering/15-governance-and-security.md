@@ -153,7 +153,7 @@ LGPD and other regulations require personal data to be retained **only for as lo
 
 ## Data Catalog and Documentation
 
-A **data catalog** is the central governance tool — the inventory of all data assets with metadata, classifications, owners, and lineage. See [Observability](./8-observability.md).
+A **data catalog** is the central governance tool — the inventory of all data assets with metadata, classifications, owners, and lineage. See [Observability](./14-observability.md).
 
 **Essential metadata for governance:**
 - Sensitivity classification by column
@@ -212,7 +212,7 @@ Credentials, tokens, and API keys should never be stored in code or exposed envi
 - [DAMA-DMBOK: Data Management Body of Knowledge](https://www.dama.org/cpages/body-of-knowledge)
 
 
-← [Observability](./8-observability.md) · [Back to index](./0-data-engineering.md) · [Cloud and Infrastructure →](./10-cloud-and-infrastructure.md)
+← [Observability](./14-observability.md) · [Back to index](./0-data-engineering.md) · [Frameworks and Ecosystem →](./16-frameworks-and-ecosystem.md)
 
 
 *Documentation in progress · Personal portfolio*

@@ -289,7 +289,7 @@ Defining SLOs creates accountability, aligns expectations with stakeholders, and
 - **Fundamentals of Data Engineering** — Joe Reis & Matt Housley (O'Reilly)
 
 
-← [Data Quality](./7-data-quality.md) · [Back to index](./0-data-engineering.md) · [Governance and Security →](./9-governance-and-security.md)
+← [Data Quality](./13-data-quality.md) · [Back to index](./0-data-engineering.md) · [Governance and Security →](./15-governance-and-security.md)
 
 
 *Documentation in progress · Personal portfolio*

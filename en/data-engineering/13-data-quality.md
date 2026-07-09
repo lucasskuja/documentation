@@ -283,7 +283,7 @@ Data quality is not the exclusive responsibility of the engineering team. It is 
 - **Fundamentals of Data Engineering** — Joe Reis & Matt Housley (O'Reilly)
 
 
-← [Orchestration](./6-orchestration.md) · [Back to index](./0-data-engineering.md) · [Observability →](./8-observability.md)
+← [DataOps and CI/CD](./12-dataops-and-cicd.md) · [Back to index](./0-data-engineering.md) · [Observability →](./14-observability.md)
 
 
 *Documentation in progress · Personal portfolio*

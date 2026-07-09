@@ -273,7 +273,7 @@ Um orquestrador eficiente deve notificar proativamente quando algo sai do espera
 
 **DAGs atômicos:** cada DAG tem uma responsabilidade clara e bem definida. Evite mega-DAGs com dezenas de responsabilidades misturadas.
 
-**Idempotência em todas as tasks:** qualquer task deve poder ser re-executada sem efeitos colaterais. Ver [Pipelines de Dados](./5-pipelines-de-dados.md).
+**Idempotência em todas as tasks:** qualquer task deve poder ser re-executada sem efeitos colaterais. Ver [Pipelines de Dados](./10-pipelines-de-dados.md).
 
 **Parâmetros, não hard-codes:** datas, ambientes e configurações devem ser parametrizados, não embutidos no código.
 
@@ -295,7 +295,7 @@ Um orquestrador eficiente deve notificar proativamente quando algo sai do espera
 - [Awesome Apache Airflow (GitHub)](https://github.com/jghoman/awesome-apache-airflow)
 
 
-← [Pipelines de Dados](./5-pipelines-de-dados.md) · [Voltar ao índice](./0-engenharia-de-dados.md) · [Qualidade de Dados →](./7-qualidade-de-dados.md)
+← [Pipelines de Dados](./10-pipelines-de-dados.md) · [Voltar ao índice](./0-engenharia-de-dados.md) · [DataOps e CI/CD →](./12-dataops-e-cicd.md)
 
 
 *Documentação em construção · Portfólio pessoal*

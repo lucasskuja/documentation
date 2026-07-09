@@ -273,7 +273,7 @@ An efficient orchestrator must proactively notify when something goes out of exp
 
 **Atomic DAGs:** each DAG has one clear and well-defined responsibility. Avoid mega-DAGs with dozens of mixed responsibilities.
 
-**Idempotency in all tasks:** every task must be safely re-runnable without side effects. See [Data Pipelines](./5-data-pipelines.md).
+**Idempotency in all tasks:** every task must be safely re-runnable without side effects. See [Data Pipelines](./10-data-pipelines.md).
 
 **Parameters, not hard-codes:** dates, environments, and configurations should be parameterized, not embedded in code.
 
@@ -295,7 +295,7 @@ An efficient orchestrator must proactively notify when something goes out of exp
 - [Awesome Apache Airflow (GitHub)](https://github.com/jghoman/awesome-apache-airflow)
 
 
-← [Data Pipelines](./5-data-pipelines.md) · [Back to index](./0-data-engineering.md) · [Data Quality →](./7-data-quality.md)
+← [Data Pipelines](./10-data-pipelines.md) · [Back to index](./0-data-engineering.md) · [DataOps and CI/CD →](./12-dataops-and-cicd.md)
 
 
 *Documentation in progress · Personal portfolio*

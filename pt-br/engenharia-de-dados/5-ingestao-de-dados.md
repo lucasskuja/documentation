@@ -258,7 +258,7 @@ No processamento de streams, eventos chegam fora de ordem. **Watermarks** são m
 - [dlt (data load tool)](https://dlthub.com/docs/intro)
 
 
-← [Arquitetura de Dados](./1-arquitetura-de-dados.md) · [Voltar ao índice](./0-engenharia-de-dados.md) · [Armazenamento de Dados →](./3-armazenamento-de-dados.md)
+← [Plataformas de Dados Modernas](./4-plataformas-de-dados-modernas.md) · [Voltar ao índice](./0-engenharia-de-dados.md) · [Streaming e Eventos →](./6-streaming-e-eventos.md)
 
 
 *Documentação em construção · Portfólio pessoal*

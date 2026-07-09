@@ -289,7 +289,7 @@ Definir SLOs cria responsabilidade, alinha expectativas com os stakeholders e or
 - **Fundamentals of Data Engineering** — Joe Reis & Matt Housley (O'Reilly)
 
 
-← [Qualidade de Dados](./7-qualidade-de-dados.md) · [Voltar ao índice](./0-engenharia-de-dados.md) · [Governança e Segurança →](./9-governanca-e-seguranca.md)
+← [Qualidade de Dados](./13-qualidade-de-dados.md) · [Voltar ao índice](./0-engenharia-de-dados.md) · [Governança e Segurança →](./15-governanca-e-seguranca.md)
 
 
 *Documentação em construção · Portfólio pessoal*

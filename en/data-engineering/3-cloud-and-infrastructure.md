@@ -309,7 +309,7 @@ Cost is one of the biggest concerns in cloud data architectures. Some optimizati
 - [FinOps Foundation](https://www.finops.org/)
 
 
-← [Governance and Security](./9-governance-and-security.md) · [Back to index](./0-data-engineering.md) · [Cloud Comparison for Data Engineering →](./11-cloud-comparison.md)
+← [Data Modeling](./2-data-modeling.md) · [Back to index](./0-data-engineering.md) · [Modern Data Platforms →](./4-modern-data-platforms.md)
 
 
 *Documentation in progress · Personal portfolio*

@@ -283,7 +283,7 @@ Qualidade de dados não é responsabilidade exclusiva do time de engenharia. É 
 - **Fundamentals of Data Engineering** — Joe Reis & Matt Housley (O'Reilly)
 
 
-← [Orquestração](./6-orquestacao.md) · [Voltar ao índice](./0-engenharia-de-dados.md) · [Observabilidade →](./8-observabilidade.md)
+← [DataOps e CI/CD](./12-dataops-e-cicd.md) · [Voltar ao índice](./0-engenharia-de-dados.md) · [Observabilidade →](./14-observabilidade.md)
 
 
 *Documentação em construção · Portfólio pessoal*

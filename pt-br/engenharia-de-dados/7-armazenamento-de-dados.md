@@ -217,7 +217,7 @@ Políticas de ciclo de vida (*lifecycle policies*) automatizam a movimentação 
 - [Delta Lake Documentation](https://docs.delta.io/latest/index.html)
 
 
-← [Ingestão de Dados](./2-ingestao-de-dados.md) · [Voltar ao índice](./0-engenharia-de-dados.md) · [Processamento de Dados →](./4-processamento-de-dados.md)
+← [Streaming e Eventos](./6-streaming-e-eventos.md) · [Voltar ao índice](./0-engenharia-de-dados.md) · [Processamento de Dados →](./8-processamento-de-dados.md)
 
 
 *Documentação em construção · Portfólio pessoal*

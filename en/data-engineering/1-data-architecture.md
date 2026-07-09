@@ -41,13 +41,13 @@ Where the data originates. They can be:
 - **Unstructured data:** images, audio, documents
 
 ### Ingestion Layer
-Responsible for moving data from source systems to the centralized environment. It can be batch or streaming. Detailed in [Data Ingestion](./2-data-ingestion.md).
+Responsible for moving data from source systems to the centralized environment. It can be batch or streaming. Detailed in [Data Ingestion](./5-data-ingestion.md).
 
 ### Storage Layer
-Where data persists. Choosing the storage type is one of the most critical architectural decisions. Detailed in [Data Storage](./3-data-storage.md).
+Where data persists. Choosing the storage type is one of the most critical architectural decisions. Detailed in [Data Storage](./7-data-storage.md).
 
 ### Processing and Transformation Layer
-Where raw data is cleaned, enriched, and transformed into useful information. Detailed in [Data Processing](./4-data-processing.md).
+Where raw data is cleaned, enriched, and transformed into useful information. Detailed in [Data Processing](./8-data-processing.md).
 
 ### Consumption Layer
 Where data reaches the end user: dashboards, reports, APIs, ML models, applications.
@@ -239,6 +239,8 @@ There is no universally correct architecture. The choice depends on:
 
 How data is organized within storage is also part of the architecture.
 
+For a complete view of conceptual, logical, and physical levels, see also [Data Modeling](./2-data-modeling.md).
+
 ### Star Schema
 The most common model in Data Warehouses. It has a **central fact table** (metrics and events) connected to **dimension tables** (context: time, product, customer, etc.).
 
@@ -390,7 +392,7 @@ flowchart TB
 - [Apache Iceberg docs](https://iceberg.apache.org/docs/latest/)
 
 
-← [Back to index](./0-data-engineering.md) · Next: [Data Ingestion →](./2-data-ingestion.md)
+← [Back to index](./0-data-engineering.md) · [Data Modeling →](./2-data-modeling.md)
 
 
 *Documentation in progress · Personal portfolio*

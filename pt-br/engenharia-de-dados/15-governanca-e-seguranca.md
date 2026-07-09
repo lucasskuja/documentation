@@ -153,7 +153,7 @@ A LGPD e outras regulações exigem que dados pessoais sejam mantidos **apenas p
 
 ## Data Catalog e Documentação
 
-Um **catálogo de dados** é a ferramenta central de governança — o inventário de todos os ativos de dados com metadados, classificações, responsáveis e linhagem. Ver [Observabilidade](./8-observabilidade.md).
+Um **catálogo de dados** é a ferramenta central de governança — o inventário de todos os ativos de dados com metadados, classificações, responsáveis e linhagem. Ver [Observabilidade](./14-observabilidade.md).
 
 **Metadados essenciais para governança:**
 - Classificação de sensibilidade por coluna
@@ -212,7 +212,7 @@ Credenciais, tokens e chaves de API nunca devem estar no código ou em variávei
 - [DAMA-DMBOK: Data Management Body of Knowledge](https://www.dama.org/cpages/body-of-knowledge)
 
 
-← [Observabilidade](./8-observabilidade.md) · [Voltar ao índice](./0-engenharia-de-dados.md) · [Cloud e Infraestrutura →](./10-cloud-e-infraestrutura.md)
+← [Observabilidade](./14-observabilidade.md) · [Voltar ao índice](./0-engenharia-de-dados.md) · [Frameworks e Ecossistema →](./16-frameworks-e-ecossistema.md)
 
 
 *Documentação em construção · Portfólio pessoal*

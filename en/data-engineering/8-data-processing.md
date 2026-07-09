@@ -286,7 +286,7 @@ Distributed SQL query engine that allows querying data across multiple heterogen
 - [Apache Flink Documentation](https://nightlies.apache.org/flink/flink-docs-stable/)
 
 
-← [Data Storage](./3-data-storage.md) · [Back to index](./0-data-engineering.md) · [Data Pipelines →](./5-data-pipelines.md)
+← [Data Storage](./7-data-storage.md) · [Back to index](./0-data-engineering.md) · [Advanced SQL →](./9-advanced-sql.md)
 
 
 *Documentation in progress · Personal portfolio*

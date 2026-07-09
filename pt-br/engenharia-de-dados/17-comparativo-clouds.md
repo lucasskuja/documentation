@@ -645,7 +645,7 @@ graph LR
 - **Fundamentals of Data Engineering** — Joe Reis & Matt Housley (O'Reilly)
 
 
-← [Cloud e Infraestrutura](./10-cloud-e-infraestrutura.md) · [Voltar ao índice](./0-engenharia-de-dados.md) 
+← [Frameworks e Ecossistema](./16-frameworks-e-ecossistema.md) · [Voltar ao índice](./0-engenharia-de-dados.md) · [Técnicas Avançadas →](./18-tecnicas-avancadas.md)
 
 
 *Documentação em construção · Portfólio pessoal*
